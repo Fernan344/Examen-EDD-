@@ -1,0 +1,7 @@
+C:\Users\teval\source\repos\Examen EDD P8\Examen EDD P8\bin\Debug\Examen EDD P8.exe.config
+C:\Users\teval\source\repos\Examen EDD P8\Examen EDD P8\bin\Debug\Examen EDD P8.exe
+C:\Users\teval\source\repos\Examen EDD P8\Examen EDD P8\bin\Debug\Examen EDD P8.pdb
+C:\Users\teval\source\repos\Examen EDD P8\Examen EDD P8\obj\Debug\Examen EDD P8.csprojAssemblyReference.cache
+C:\Users\teval\source\repos\Examen EDD P8\Examen EDD P8\obj\Debug\Examen EDD P8.csproj.CoreCompileInputs.cache
+C:\Users\teval\source\repos\Examen EDD P8\Examen EDD P8\obj\Debug\Examen EDD P8.exe
+C:\Users\teval\source\repos\Examen EDD P8\Examen EDD P8\obj\Debug\Examen EDD P8.pdb
