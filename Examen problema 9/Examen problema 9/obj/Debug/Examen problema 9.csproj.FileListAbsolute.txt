@@ -1,0 +1,7 @@
+C:\Users\teval\source\repos\Examen problema 9\Examen problema 9\bin\Debug\Examen problema 9.exe.config
+C:\Users\teval\source\repos\Examen problema 9\Examen problema 9\bin\Debug\Examen problema 9.exe
+C:\Users\teval\source\repos\Examen problema 9\Examen problema 9\bin\Debug\Examen problema 9.pdb
+C:\Users\teval\source\repos\Examen problema 9\Examen problema 9\obj\Debug\Examen problema 9.csprojAssemblyReference.cache
+C:\Users\teval\source\repos\Examen problema 9\Examen problema 9\obj\Debug\Examen problema 9.csproj.CoreCompileInputs.cache
+C:\Users\teval\source\repos\Examen problema 9\Examen problema 9\obj\Debug\Examen problema 9.exe
+C:\Users\teval\source\repos\Examen problema 9\Examen problema 9\obj\Debug\Examen problema 9.pdb
